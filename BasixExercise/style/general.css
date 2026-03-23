@@ -1,0 +1,20 @@
+﻿body
+{ 
+background-color: forestgreen;
+
+}
+article.art1 {
+    color: yellow;
+}
+
+article.art2 {
+    color: blue;
+}
+
+.print1 {
+    background-color: aqua;
+}
+
+.print2 {
+    background-color: pink;
+}

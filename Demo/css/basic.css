@@ -1,0 +1,17 @@
+﻿/*
+    Description: Basic CSS for the website
+
+*/
+
+
+body { 
+    background-color: black;
+}
+
+main div.hello {
+    background-color: blue; 
+    color: white;
+    font-size: large;
+    width: 600px;
+    height: 200px; 
+}
